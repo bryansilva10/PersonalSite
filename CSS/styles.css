@@ -1,0 +1,140 @@
+.top-container {
+  background-color: #ece8d9;
+  position: relative;
+  padding-top: 100px;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #393e46;
+    border-width: 3px;
+    width: 5%;
+}
+
+h1 {
+  font-size: 4rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Neucha', cursive;
+  color: #393e46;
+}
+
+h2 {
+  font-size: 2em;
+  color: #f8b500;
+}
+
+h3 {
+  color: #00adb5;
+}
+
+.font-header {
+  font-family: 'Neucha', cursive;
+  font-size: 1.2rem;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.profile {
+  line-height: 2;
+}
+.profilepic {
+  border-radius: 50%;
+  margin: 50px auto 20px auto;
+}
+
+.description {
+  margin-bottom: 80px;
+}
+.mountain {
+  position: relative;
+  left: 10px;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.top-cloud {
+  position: relative;
+  bottom: 10px;
+  left: 220px;
+}
+
+.programming {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.Front-End{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skills {
+  margin-top: 80px;
+}
+
+.contact-me {
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+.bottom-container {
+  background-color: #00adb5;
+  margin-top: 50px;
+  padding: 50px 0 20px;
+}
+
+.footer-link {
+  color: #393e46;
+  margin: 10px 10px;
+}
+
+.last-words {
+  margin: 40px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #eaf6f6;
+}
+
+.btn {
+  -webkit-border-radius: 28;
+-moz-border-radius: 28;
+border-radius: 28px;
+font-family: Arial;
+color: #f8b500;
+font-size: 21px;
+background: #00adb5;
+padding: 10px 20px 10px 20px;
+text-decoration: none;
+}
+
+.btn:hover {
+  background: #105a87;
+  text-decoration: none;
+}
+
+.copyright {
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
